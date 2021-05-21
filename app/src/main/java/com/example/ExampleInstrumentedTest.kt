@@ -1,4 +1,4 @@
-package com.example.twedupus1082823crazyshape
+package com.example
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
